@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaslayalimApi", "BaslayalimApi\BaslayalimApi.csproj", "{F60B1728-17D0-47E4-AD1A-92747E84B1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60B1728-17D0-47E4-AD1A-92747E84B1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60B1728-17D0-47E4-AD1A-92747E84B1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60B1728-17D0-47E4-AD1A-92747E84B1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60B1728-17D0-47E4-AD1A-92747E84B1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECF4AB0-3183-4005-ABA2-AC425577CE31}
+	EndGlobalSection
+EndGlobal
