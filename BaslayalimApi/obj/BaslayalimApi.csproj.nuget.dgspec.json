@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi.csproj": {}
+    "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\BaslayalimApi.csproj": {}
   },
   "projects": {
-    "D:\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi.csproj": {
+    "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\BaslayalimApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi.csproj",
+        "projectUniqueName": "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\BaslayalimApi.csproj",
         "projectName": "BaslayalimApi",
-        "projectPath": "D:\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi.csproj",
+        "projectPath": "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\BaslayalimApi.csproj",
         "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-        "outputPath": "D:\\BaslayalimApi\\BaslayalimApi\\BaslayalimApi\\obj\\",
+        "outputPath": "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
