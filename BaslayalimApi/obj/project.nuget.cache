@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Kpvfm+qkfwpXHAftOVVwE6IgNtKQHHhjGWQHscVvnI653LExXINmX7Iotp7efQhg2KHoIk3IIsb+eU+pIN0hPw==",
+  "dgSpecHash": "OoP8Zm2D8P0QjAQ6ERNmxGf2ayMGMoQ3I951adOIY77sn5ElhuXU4/oM/EpJV0kU90tKajteYKZQNGBKwQiQ7Q==",
   "success": true,
   "projectFilePath": "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\BaslayalimApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Huawei\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+    "C:\\Users\\Huawei\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
