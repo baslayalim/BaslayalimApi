@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "amZ7i1Ft+wPAsUzRdO36OHWnzJAUG/pWYCjcMSRVJLReSPQuo6tdtzSYiYs5tm5en6GsZfhjFWpGedJnYZraWA==",
+  "dgSpecHash": "Kpvfm+qkfwpXHAftOVVwE6IgNtKQHHhjGWQHscVvnI653LExXINmX7Iotp7efQhg2KHoIk3IIsb+eU+pIN0hPw==",
   "success": true,
   "projectFilePath": "D:\\Projeler\\GitHub\\Baslayalim\\BaslayalimApi\\BaslayalimApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Huawei\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -19,3 +19,5 @@ D:\Projeler\GitHub\Baslayalim\BaslayalimApi\obj\Debug\net6.0\refint\BaslayalimAp
 D:\Projeler\GitHub\Baslayalim\BaslayalimApi\obj\Debug\net6.0\BaslayalimApi.pdb
 D:\Projeler\GitHub\Baslayalim\BaslayalimApi\obj\Debug\net6.0\BaslayalimApi.genruntimeconfig.cache
 D:\Projeler\GitHub\Baslayalim\BaslayalimApi\obj\Debug\net6.0\ref\BaslayalimApi.dll
+D:\Projeler\GitHub\Baslayalim\BaslayalimApi\bin\Debug\net6.0\Dapper.dll
+D:\Projeler\GitHub\Baslayalim\BaslayalimApi\obj\Debug\net6.0\BaslayalimApi.csproj.CopyComplete
