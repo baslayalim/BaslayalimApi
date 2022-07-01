@@ -2,9 +2,10 @@
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace BaslayalimApi.Controllers
+namespace BaslayalimApi.Controllers.V1
 {
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
     {
@@ -12,7 +13,7 @@ namespace BaslayalimApi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1 1111111111 ", "value2" };
         }
 
         // GET api/<UserController>/5
