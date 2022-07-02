@@ -5,3 +5,7 @@ Net Core Full Api Equipment
 - Design Pattern
 - Program Configuration
 - Versioning
+- Cors
+- Referans Class Using
+- Method Development
+- Get, Post, Put, Delete Test
