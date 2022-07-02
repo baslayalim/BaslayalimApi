@@ -7,35 +7,35 @@ namespace BaslayalimApi.Controllers.V1
     [ApiVersion("1.0")]
     [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
-    public class UserController : ControllerBase
+    public class ControlController : ControllerBase
     {
-        // GET: api/<UserController>
+        // GET: api/<ControlController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1 1111111111 ", "value2" };
+            return "Api V1.0 True";
         }
 
-        // GET api/<UserController>/5
+        // GET api/<ControlController>/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
             return "value";
         }
 
-        // POST api/<UserController>
+        // POST api/<ControlController>
         [HttpPost]
         public void Post([FromBody] string value)
         {
         }
 
-        // PUT api/<UserController>/5
+        // PUT api/<ControlController>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
         }
 
-        // DELETE api/<UserController>/5
+        // DELETE api/<ControlController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
